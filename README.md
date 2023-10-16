@@ -9,4 +9,4 @@
 <br>
 
 **Example image:**
-![NPS API Request Class Example Screen](/assets/NPS-screen.png)
+![NPS API Request Class Example Screen](/assets/NPS-Screen.png)
