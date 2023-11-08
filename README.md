@@ -1,16 +1,15 @@
-## National Park Service API Class 
+## National Park Info Analysis
 
-### NationalParksInfo is a Python project that retrieves, stores, and analyzes data related to National Parks including descriptions, images, and Wikipedia entries.
+### National Park Data Aggregation and Analysis Toolkit
 
 - Usage:
-  - Run the create_parks_table function to create the database table for storing park data.
-  - Use the NationalPark class to retrieve and store data about national parks, including descriptions and images.
-  - Perform data analysis, filtering parks by location or amenities, and visualize them on a map using the provided functions.
-  - Utilize the scrape_wikipedia function to gather additional Wikipedia descriptions for parks.=
-  - Ensure you have the required libraries (e.g., requests, sqlite3, geopandas) installed.
+  - Run the create_parks_table function to create the database table for storing park data
+  - Use the NationalPark class to retrieve and store data about national parks, including descriptions and images
+  - Perform data analysis, filtering parks by location or amenities, and visualize them on a map using the provided functions
+  - Utilize the scrape_wikipedia function to gather additional Wikipedia descriptions for parks
   - Enhance the functionality as needed for your specific use case.
  
-- External libraries: Requests
+- External libraries: requests, sqlite3, geopandas
 
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 <br>
