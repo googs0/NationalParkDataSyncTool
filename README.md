@@ -16,4 +16,5 @@
 <br>
 
 **Example image:**
-![NPS API Request Class Example Screen](/assets/NPS-Screen.png)
+![NPS API Request Class Example Screen](/assets/nps_api_screen1.png)
+![NPS API Request Class Example Screen](/assets/nps_api_screen2.png)
