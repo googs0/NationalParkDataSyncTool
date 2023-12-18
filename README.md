@@ -11,6 +11,11 @@
  
 - External libraries: requests, sqlite3, geopandas
 
+```bash
+
+pip install -r requirements.txt
+```
+
 - Contact Information: [mgug1455@gmail.com](mailto:mgug1455@gmail.com)
 <br>
 <br>
