@@ -14,20 +14,6 @@
 
 <br>
 
-**if you don't an Opencage or National Park Service API key, you can get them from here:**
-
-Opencage
-```
-https://opencagedata.com/api#quickstart
-```
-
-NPS
-```
-https://www.nps.gov/subjects/developer/get-started.htm
-```
-
-<br>
-
 ### Getting Started
 
 **Clone the repo**
@@ -54,6 +40,20 @@ pip install -r requirements.txt
 - **plotly**: interactive web graphs
 - **Requests**: HTTP requests
 - **sqlite3**: SQLite database interface
+
+<br>
+
+**if you don't an Opencage or National Park Service API key, you can get them from here:**
+
+Opencage
+```
+https://opencagedata.com/api#quickstart
+```
+
+NPS
+```
+https://www.nps.gov/subjects/developer/get-started.htm
+```
 
 <br>
 <br>
