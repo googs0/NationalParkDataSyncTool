@@ -5,6 +5,15 @@
 
 <br>
 
+### Overview
+- Data retrieval
+- Data visualtion
+- Database management
+- Web scraping
+- Geospatial operations
+
+<br>
+
 **if you don't an Opencage or National Park Service API key, you can get them from here:**
 
 Opencage
@@ -18,14 +27,8 @@ https://www.nps.gov/subjects/developer/get-started.htm
 ```
 
 <br>
-<br>
 
-### Overview
-- Data retrieval
-- Data visualtion
-- Database management
-- Web scraping
-- Geospatial operations
+### Getting Started
 
 **Clone the repo**
 ```
