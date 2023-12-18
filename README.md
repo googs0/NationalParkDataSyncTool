@@ -34,8 +34,6 @@ pip install -r requirements.txt
 3. **popular_codes.txt**
 4. **nps_boundary.gdb.zip**
 
-<br>
-
 ### External Libraries
 - **BeautifulSoup**: HTML parsing and web scraping
 - **concurrent.futures.ThreadPoolExecutor**: Async execution
