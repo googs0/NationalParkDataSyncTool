@@ -11,8 +11,13 @@
  
 - External libraries: requests, sqlite3, geopandas
 
+Clone the repo:
+```
+git clone https://github.com/googs0/NationalParkDataSyncTool.git
 ```
 
+Dependencies
+```
 pip install -r requirements.txt
 ```
 
