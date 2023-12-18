@@ -1,7 +1,7 @@
 ## National Park Info Analysis
 
 ### National Park Data Aggregation, Web Scraping, Custom Mapping, and Analysis Toolkit
-#### A comprehensive tool for managing, visualizing, and enriching data related to national parks
+### A comprehensive tool for managing, visualizing, and enriching data related to national parks
 
 <br>
 
