@@ -28,6 +28,13 @@ pip install -r requirements.txt
 
 <br>
 
+### Files included
+1. **_main.py**
+2. **requirements.txt**
+3. **popular_codes.txt**
+
+<br>
+
 ### External Libraries
 - **BeautifulSoup**: HTML parsing and web scraping
 - **concurrent.futures.ThreadPoolExecutor**: Async execution
