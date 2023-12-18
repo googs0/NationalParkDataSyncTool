@@ -12,8 +12,6 @@
 - Web scraping
 - Geospatial operations
 
-<br>
-
 ### Getting Started
 
 **Clone the repo**
