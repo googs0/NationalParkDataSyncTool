@@ -1,0 +1,50 @@
+Popular NPS Codes:
+
+ACAD - Acadia
+ARCH - Arches
+BADL - Badlands
+BIBE - Big Bend
+BRCA - Bryce Canyon
+CACA - Carlsbad Caverns
+CANY - Canyonlands
+CRLA - Crater Lake
+CUGA - Cumberland Gap
+CUVA - Cuyahoga Valley
+DENA - Denali
+DEVA - Death Valley
+EVER - Everglades
+GAAR - Gates of the Artic
+GLAC - Glacier
+GRBA - Great Basin
+GRCA - Grand Canyon
+GRSA - Great Sand Dunes
+GRSM - Great Smoky Mountains
+GRTE - Grand Teton
+GUMO - Guadalupe Mountains
+HAFE - Harpers Ferry
+HAVO - Hawaii Volcanoes
+HAWA - Hawaii
+HOSP - Hot Springs
+INDU - Indiana Dunes
+JEFF - Gateway Arch
+JOTR - Joshua Tree
+KEFJ - Kenai Fjords
+LAVO - Lassen Volcanic
+MACA - Mammoth Cave
+MEVE - Mesa Verde
+MORA - Mt. Rainier
+NERI - New River Gorge
+OLYM - Olympic
+PEFO - Petrified Forest
+PINN - Pinnacles
+REDW - Redwood
+ROMO - Rocky Mountain
+SEKI - Sequoia & Kings Canyon
+SHEN - Shenandoah
+VIIS - Virgin Islands
+VOYA - Voyageurs
+WHSA - White Sands
+WICA - Wind Cave
+YELL - Yellowstone
+YOSE - Yosemite
+ZION - Zion
