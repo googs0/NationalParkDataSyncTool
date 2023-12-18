@@ -4,10 +4,8 @@
 #### A comprehensive tool for managing, visualizing, and enriching data related to national parks
 
 <br>
-<br>
 
-**You must have an Opencage API key and a National Park Service API key**
-if you don't have one, you can get them from here:
+**if you don't an Opencage or National Park Service API key, you can get them from here:**
 
 Opencage
 ```
