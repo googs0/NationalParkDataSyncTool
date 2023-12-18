@@ -40,6 +40,8 @@ git clone https://github.com/googs0/NationalParkDataSyncTool.git
 pip install -r requirements.txt
 ```
 
+<br>
+
 ### External Libraries
 - **BeautifulSoup**: HTML parsing and web scraping
 - **concurrent.futures.ThreadPoolExecutor**: Async execution
