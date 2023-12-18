@@ -1,7 +1,9 @@
 ## National Park Info Analysis
 
 ### National Park Data Aggregation, Web Scraping, Custom Mapping, and Analysis Toolkit
+#### A comprehensive tool for managing, visualizing, and enriching data related to national parks
 
+<br>
 <br>
 
 **You must have an Opencage API key and a National Park Service API key**
@@ -18,13 +20,14 @@ https://www.nps.gov/subjects/developer/get-started.htm
 ```
 
 <br>
+<br>
 
-- Usage:
-  - Run the create_parks_table function to create the database table for storing park data
-  - Use the NationalPark class to retrieve and store data about national parks, including descriptions and images
-  - Perform data analysis, filtering parks by location or amenities, and visualize them on a map using the provided functions
-  - Utilize the scrape_wikipedia function to gather additional Wikipedia descriptions for parks
-  - Enhance the functionality as needed for your specific use case.
+### Overview
+- Data retrieval
+- Data visualtion
+- Database management
+- Web scraping
+- Geospatial operations
 
 **Clone the repo**
 ```
