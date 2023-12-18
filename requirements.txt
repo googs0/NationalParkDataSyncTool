@@ -1,0 +1,12 @@
+beautifulsoup4==4.10.0
+concurrent.futures==3.10.0
+fiona==1.8.20
+geopandas==0.10.2
+geopy==2.3.3
+matplotlib==3.4.3
+matplotlib-scalebar==0.7.2
+numpy==1.21.2
+opencage==1.2.2
+plotly==5.3.1
+requests==2.26.0
+sqlite==3.36.0
