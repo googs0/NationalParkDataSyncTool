@@ -2,6 +2,8 @@
 
 ### National Park Data Aggregation, Web Scraping, Custom Mapping, and Analysis Toolkit
 
+<br>
+
 **You must have an Opencage API key and a National Park Service API key**
 if you don't have one, you can get them from here:
 
@@ -14,6 +16,8 @@ NPS
 ```
 https://www.nps.gov/subjects/developer/get-started.htm
 ```
+
+<br>
 
 - Usage:
   - Run the create_parks_table function to create the database table for storing park data
