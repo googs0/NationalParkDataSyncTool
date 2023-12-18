@@ -11,7 +11,7 @@
  
 - External libraries: requests, sqlite3, geopandas
 
-```bash
+```
 
 pip install -r requirements.txt
 ```
