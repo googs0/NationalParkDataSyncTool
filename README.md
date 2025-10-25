@@ -56,17 +56,3 @@ NPS
 ```
 https://www.nps.gov/subjects/developer/get-started.htm
 ```
-
-<br>
-<br>
-
-### Example Images
-**_main.py**
-![NPS API Example Screen](/assets/img/nps1.png)
-![NPS API Example Screen](/assets/img/nps2.png)
-![NPS API Example Screen](/assets/img/nps3.png)
-![NPS API Example Screen](/assets/img/nps4.png)
-![NPS API Example Screen](/assets/img/nps5.png)
-![NPS API Example Screen](/assets/img/nps6.png)
-![NPS API Example Screen](/assets/img/nps7.png)
-![NPS API Example Screen](/assets/img/nps8.png)
